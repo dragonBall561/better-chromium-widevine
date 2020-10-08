@@ -1,0 +1,3 @@
+Package: *chromium*
+Pin: release o=LP-PPA-saiarcot895-chromium-beta
+Pin-Priority: 900
