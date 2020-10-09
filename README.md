@@ -15,3 +15,6 @@ Note: Is for Debian/Ubuntu/Debian-Based only
 ## How to do it
 Just Download and Run `install.sh`
 Happy Netflix!
+
+## Disclaimer
+I am not responsible for any damage you do to your computer/laptop/mobile device.
