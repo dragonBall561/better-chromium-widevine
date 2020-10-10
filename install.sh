@@ -45,7 +45,7 @@ rm -rf chrome
 
 # Getting API's
 cd ~/
-echo 'export export use_official_google_api_keys=true'
+echo 'export use_official_google_api_keys=true'
 
 
 # All Done
