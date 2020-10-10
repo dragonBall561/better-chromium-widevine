@@ -45,9 +45,7 @@ rm -rf chrome
 
 # Getting API's
 cd ~/
-echo 'export GOOGLE_API_KEY="AIzaSyAofwZZ73IN7F5049UTszrlt4EPM-NUYV0"' > .profile
-echo 'export GOOGLE_DEFAULT_CLIENT_ID="634064320623-5jtnsohijdalho1bq1be6en80ar4b4vt.apps.googleusercontent.com"' > .profile
-echo 'export GOOGLE_DEFAULT_CLIENT_SECRET="YDPThMTDSvdg6pzfoSonoqZh"' > .profile
+echo 'export export use_official_google_api_keys=true'
 
 
 # All Done
