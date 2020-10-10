@@ -13,7 +13,8 @@ Note: Is for Debian/Ubuntu/Debian-Based only
 [\*Link to Repo](https://launchpad.net/~saiarcot895/+archive/ubuntu/chromium-beta)
 
 ## How to do it
-Just Download and Run `install.sh`
+Just Download The Source Code and Run `./install.sh`.
+
 Happy Netflix!
 
 ## Disclaimer
