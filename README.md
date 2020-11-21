@@ -61,4 +61,4 @@ I Don't think I can give you mine but let me know in the issues if im wrong.
 
 
 ## Disclaimer
-I am not responsible for any damage you do to your computer/laptop/mobile device.
+I am not responsible for any damage done to your computer/laptop/mobile device.
